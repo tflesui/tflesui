@@ -1,9 +1,9 @@
 <!-- Profile Banner: Modern black & gold theme with uploaded images -->
 
-<p align="center" style="background: #000; padding: 24px 0;">
-  <img src="https://github.com/tflesui/assets/blob/main/images/Transparent%20Logo.png?raw=true" alt="The Bushrod Group" height="120"/>
+<p align="center" style="display: flex; background: #000; padding: 24px 20;">
+<!--   <img src="https://github.com/tflesui/assets/blob/main/images/Transparent%20Logo.png?raw=true" alt="The Bushrod Group" height="120" style="margin:0 32px"/> -->
   <img src="https://github.com/tflesui/assets/blob/main/images/images%20(1).jpeg?raw=true" alt="Oakland Tree" height="120" style="margin:0 32px"/>
-  <img src="https://github.com/tflesui/assets/blob/main/images/Logo_symbol_sm.png?raw=true" alt="Dabblr App" height="80"/>
+<!--   <img src="https://github.com/tflesui/assets/blob/main/images/Logo_symbol_sm.png?raw=true" alt="Dabblr App" height="80" style="margin:0 32px"/> -->
 </p>
 
 <h1 align="center" style="color: #FFD700;">👋 Hi, I'm Francis (tflesui)</h1>
